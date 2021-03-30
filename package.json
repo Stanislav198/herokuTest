@@ -1,0 +1,39 @@
+{
+  "name": "testheroku",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stanislav",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stanislav198/herokuTest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Stanislav198/herokuTest/issues"
+  },
+  "homepage": "https://github.com/Stanislav198/herokuTest#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect": "^3.7.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "fs": "0.0.1-security",
+    "ftp": "^0.3.10",
+    "ftp-srv": "^4.4.0",
+    "http": "0.0.1-security",
+    "jsforce": "^1.10.1",
+    "nforce": "^1.12.2",
+    "node-salesforce": "^0.8.0",
+    "path": "^0.12.7",
+    "pg": "^8.5.1",
+    "util": "^0.12.3",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.23",
+    "xml2json-light": "^1.0.6"
+  }
+}
